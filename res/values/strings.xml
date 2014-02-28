@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verein_Alpha</string>
+    <!-- Buttons -->
+    <string name="button_add">Neu</string>
+    <string name="button_delete">Löschen</string>
+    <string name="button_ok">OK</string>
+    <string name="button_details">Anzeigen</string>
+    <string name="button_sync">Sync</string>
+    <string name="button_preferences">Einstellungen</string>
+    <string name="button_save">Speichern</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nein</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_edit">Ändern</string>
+    <string name="button_eventDetails">Details</string>
+    <!-- Activity Labels -->
+    <string name="activity_main">Verein</string>
+    <string name="activity_admin">Verwaltung</string>
+    <string name="activity_admin_training">Veranstaltungen</string>
+    <string name="activity_admin_training_details">Veranstaltung</string>
+    <string name="activity_admin_training_add_member">Teilnehmer einfügen</string>
+    <string name="activity_admin_trainer">Trainer</string>
+    <string name="activity_member_chooser_titel">Person einfügen</string>
+    <string name="activity_event_details">Inhalte</string>
+    <string name="activity_attandence_sheet">Anwesenheit</string>
+    <!-- Main Menu -->
+    <string name="menu_main_attandence">Anwesenheit</string>
+    <string name="menu_main_admin">Verwaltung</string>
+    <!-- Admin Menu -->
+    <string name="menu_admin_training">Veranstaltungen</string>
+    <string name="menu_admin_trainer">Trainer</string>
+    <string name="menu_admin_member">Teilnehmer</string>
+    <!-- Labels -->
+    <string name="label_attendant">Teilnehmer</string>
+    <string name="label_appointment">Termin eingeben&#8230;</string>
+    <string name="label_name">Name</string>
+    <string name="label_member">Mitglied</string>
+    <string name="label_period">Termin</string>
+    <string name="label_period_in_minute">Trainingsdauer (in Minuten)</string>
+    <string name="label_date">Datum</string>
+    <string name="label_time">Uhrzeit</string>
+    <string name="label_rythm">Rythmus</string>
+    <string name="label_eventContent">Inhalt</string>
+    <string name="label_eventNode">Notizen</string>
+    <!-- Hints -->
+    <string name="hint_name">Name</string>
+    <string name="hint_date">Datum</string>
+    <string name="hint_time">Uhrzeit</string>
+    <!-- Dialogs -->
+    <string name="dialog_loading_titel">Lade Daten</string>
+    <string name="dialog_loading_text">Bitte warten&#8230;</string>
+    <string name="dialog_arlert_delete_titel">Löschen?</string>
+    <string name="dialog_arlert_delete_text">Möchten Sie den Eintrag wirklich löschen?</string>
+    <!-- Days of a week short -->
+    <string name="day_short_mo">Mo</string>
+    <string name="day_short_tue">Di</string>
+    <string name="day_short_wed">Mi</string>
+    <string name="day_short_thu">Do</string>
+    <string name="day_short_fr">Fr</string>
+    <string name="day_short_sa">Sa</string>
+    <string name="day_short_su">So</string>
+    <!-- Ohter -->
+    <string name="other_time_postfix">Uhr</string>
+
+
+    <string name="save_button">Speichern</string>
+    <string name="administration_label">Verwaltung</string>
+
+</resources>
